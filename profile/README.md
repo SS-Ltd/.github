@@ -1,8 +1,8 @@
-# Creddit: A Reddit Clone
+# cReddit: A Reddit Clone
 
 ## Introduction
 
-Welcome to Creddit, a fully functional Reddit clone developed by our dedicated team of developers at SS-LTD. This project aimed to replicate the core functionalities of Reddit, including user authentication, posting, commenting, voting, and subreddits. Our goal was to create a seamless user experience with a modern and intuitive design, ensuring accessibility across multiple platforms.
+Welcome to cReddit, a fully functional Reddit clone developed by our dedicated team of developers at SS-LTD. This project aimed to replicate the core functionalities of Reddit, including user authentication, posting, commenting, voting, and subreddits. Our goal was to create a seamless user experience with a modern and intuitive design, ensuring accessibility across multiple platforms.
 
 ## Project Links
 
