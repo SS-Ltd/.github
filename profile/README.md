@@ -13,15 +13,16 @@ Welcome to cReddit, a fully functional Reddit clone developed by our dedicated t
 
 ### Team Leader  🏆
 - Hussein Elhawary
+
 ### Backend Team 🔧
 - Abdallah Matboli
-- Fares Hesham
-- Abdelmoneim Islam
-- Amr Mahmoud
-- AbdelWahed Mahmoud
+- Fares Hesham Abdelmoneim
+- Islam Amr
+- Mahmoud Samy
 
 ### Frontend Team 🎨
 - Ahmed Abdelaal
+- Bassel Mohamed
 - Malek Elsaka
 - Marwan Abbas
 - Mohamed Heggi
